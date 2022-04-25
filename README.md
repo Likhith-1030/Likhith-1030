@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Likky.
+## Hi there 👋, my name is Likky.
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/64/b0/d7/64b0d74e3ab4a3c0ab0076db8e7565f5.gif)
 
@@ -13,7 +13,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Likhith-1030/Likhith-1030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/likhith-bavisetti-57b042238/) 
