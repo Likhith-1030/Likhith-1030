@@ -7,7 +7,7 @@
 - :briefcase: I’m currently learning ReactJS.
 - :keyboard: Ping me on - <likhithbavisetti@gmail.com>.
 - 📫 How to reach me 
-  - [<img src='https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/likhith-bavisetti-57b042238/)[<img src='https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png' alt='twitter' height='40'>](https://twitter.com/5409L)  
+  - [<img src='https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/likhith-bavisetti-57b042238/)[<img src='https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png' alt='twitter' height='40' target="_blank" >](https://twitter.com/5409L)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true)  
