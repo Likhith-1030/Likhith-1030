@@ -17,13 +17,6 @@
 
 
 
-
-
-
-
-<a>
-  ![Likky's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical)
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical" />
 </a>
