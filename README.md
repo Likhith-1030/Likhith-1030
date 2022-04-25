@@ -21,5 +21,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/likhith1030">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhith1030" width="200"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhith1030" width="200" height="195"/>
 </a>
