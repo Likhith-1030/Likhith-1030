@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Likky.
 
-<img title="" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif" alt="Coding" align="right" width="500">
+<img title="" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif" alt="Coding" align="right" width="500" height="450">
 
 - :desktop_computer: I’m currently working on Web Development. 
 - ::couch_and_lamp: I’m interested in solving Logical Questions.
