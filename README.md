@@ -17,8 +17,8 @@
 </br>
 
 
-<a href="https://github.com/likhith1030" align="center" >
+<p href="https://github.com/likhith1030" align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhith1030"/>
-</a>
+</p>
 
