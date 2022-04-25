@@ -19,4 +19,4 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true)  
+![Likky's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical)
