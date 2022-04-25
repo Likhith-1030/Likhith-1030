@@ -9,7 +9,7 @@
 - 📫 How to reach me 
   - [<img src='https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/likhith-bavisetti-57b042238/)[<img src='https://image.similarpng.com/very-thumbnail/2020/06/Logo-Twitter-icon-transparent-PNG.png' alt='twitter' height='40' >](https://twitter.com/5409L)  
 - :u7981: Languages I've learnt
-  - [<img src='https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/likhith-bavisetti-57b042238/)
+  - [<img src='https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png' alt='linkedin' height='40'>]
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true)  
