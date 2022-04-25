@@ -1,5 +1,4 @@
-## Hi there 👋, my name is Likky.
-#### I am GitHub Readme Generator's creator
+## Hey there 👋, I'm Likky.
 
 <img title="" src="https://i.pinimg.com/originals/64/b0/d7/64b0d74e3ab4a3c0ab0076db8e7565f5.gif" alt="Coding" align="right" width="500">
 
