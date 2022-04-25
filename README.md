@@ -17,6 +17,9 @@
 
 
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/likhith1030">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/likhith1030">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhith1030&show_icons=true&theme=radical" />
 </a>
