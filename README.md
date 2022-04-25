@@ -3,7 +3,7 @@
 <img title="" src="https://cutewallpaper.org/24/computer-gifs/computer-gif-id-36249-gif-abyss.gif" alt="GIF" align="right" width="500" >
 
 - :desktop_computer: I’m currently working on Web Development. 
-- ::couch_and_lamp: I’m interested in solving Logical Questions.
+- ::couch_and_lamp: I’m interested in solving programs.
 - :briefcase: I’m currently learning ReactJS.
 - :keyboard: Ping me on - <likhithbavisetti@gmail.com>.
 - 📫 How to reach me 
