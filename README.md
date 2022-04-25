@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Likky.
 
-<img title="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4ZqgbOLnTI-IEFS15GgkgGSC9rYe_hpDdQ&usqp=CAU" alt="GIF" align="right" width="500" >
+<img title="" src="https://cutewallpaper.org/24/computer-gifs/computer-gif-id-36249-gif-abyss.gif" alt="GIF" align="right" width="500" >
 
 - :desktop_computer: I’m currently working on Web Development. 
 - ::couch_and_lamp: I’m interested in solving Logical Questions.
